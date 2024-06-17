@@ -1,6 +1,5 @@
-import React from "react";
+// import React from "react";
 import { NavLink, Link } from "react-router-dom";
-import About from "../About/About";
 
 export default function Header() {
     return (
